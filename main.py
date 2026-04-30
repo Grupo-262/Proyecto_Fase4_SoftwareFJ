@@ -27,3 +27,22 @@ class Empleado(Usuario):
 if __name__ == "__main__":
     persona = Empleado("Eduar Fajardo", "12345", "Operador de Medios")
     print(persona.mostrar_rol())
+
+# =========================
+# APORTES DE ISABEL
+# =========================
+
+# Clase Cliente agregada al sistema
+class Cliente(Usuario):
+    def __init__(self, nombre, cedula, email):
+        super().__init__(nombre, cedula)
+        
+        # Validación
+        if not email:
+            raise ValueError("El email no puede estar vacío")
+        
+        self.email = email
+
+    def mostrar_rol(self):
+        return f"Cliente: {self.get_nombre()} - Email: {self.email}"
+
