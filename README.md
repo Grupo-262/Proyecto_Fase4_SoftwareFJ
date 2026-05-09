@@ -3,7 +3,7 @@ Integrantes:
 - Eduar Hernan Fajardo Caiza (Sobrecarga de Métodos e Integración)
 - Isabel Cristina Puque Daza (Servicios)
 - Derly Yisela Ceron Muñoz(Clientes)
-- Maria Paula Ordoñez (Reservas)
+- Maria Paula Perez Ordoñez (Reservas)
 
 Para ejecutar: Abrir terminal y escribir `python main.py`
 
