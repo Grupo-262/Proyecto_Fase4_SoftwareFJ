@@ -1,0 +1,10 @@
+[CLIENTE ERROR] 2026-05-09 02:35:31.398512 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.398638 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.398717 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.398793 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.398864 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.398933 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.399001 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.399084 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.399164 - Error al crear cliente: El nombre no debe contener números
+[CLIENTE ERROR] 2026-05-09 02:35:31.399238 - Error al crear cliente: El nombre no debe contener números
